@@ -2,9 +2,13 @@
 
 ![main_dashboard](./image/main_dashboard.gif)
 
+### 🚀 View the dashboard live on Tableau Public [**here**](https://public.tableau.com/app/profile/tfkachmad/viz/Sales-and-Customer_Dashboard_17423598158910/SalesDashboard)
+
 ## 📌 Project Overview  
 
 This project focuses on developing two **interactive dashboards** in **Tableau**—a **Sales Dashboard** and a **Customer Dashboard**—to help **sales managers, executives, and marketing teams** analyze key business performance metrics. These dashboards provide insights into **sales trends, customer behavior, and profitability** to support data-driven decision-making.  
+
+This dashboard made by following the requirements which can be seen at [**requirements.md**](./requirements.md).
 
 ## 📂 Dataset
 
