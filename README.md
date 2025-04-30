@@ -25,7 +25,7 @@ The dataset is a dataset about sales and customer data from a fictional company 
 
 ## 📈 Sales Dashboard  
 
-![sales_dsashboard](./image/sales_dashboard.png)
+![sales_dashboard](./image/sales_dashboard.png)
 *Preview on the sales dashboard page*
 
 ### 🎯 Purpose  
